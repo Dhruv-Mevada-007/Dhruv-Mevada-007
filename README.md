@@ -1,167 +1,233 @@
-<h1 align="center">Hi 👋, I'm Dhruv Mevada</h1>
+<div align="center">
 
-<h3 align="center">
-Flutter Developer • AI Enthusiast • Unity Game Developer • Computer Engineer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Dhruv%20Mevada&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Dev%20•%20AI%20Builder%20•%20Game%20Dev&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-Building mobile apps, AI-powered tools, and creative software that solve real-world problems.
-</p>
+<a href="https://github.com/Dhruv-Mevada-007">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+AI-powered+Flutter+apps;Solo+Leveling+System+%7C+Alarming+Silence;Chrome+Extensions+%2B+LLMs+%2B+RAG;Turning+anime+aesthetics+into+real+products" />
+</a>
 
----
+</div>
 
-## 🚀 About Me
+<br/>
 
-I'm a Computer Engineer passionate about **Flutter**, **Artificial Intelligence**, **Backend Development**, and **Game Development**. I enjoy building applications that combine clean UI with practical functionality, while continuously exploring AI, cybersecurity, and modern software engineering.
+<table align="center" border="0">
+<tr>
+<td valign="top" width="60%">
 
-Currently, I'm focused on creating AI-powered developer tools, Flutter applications, Chrome extensions, and research projects involving Large Language Models (LLMs).
+### 👋 About Me
 
----
+I'm a **Computer Engineer** (pursuing M.E.) building at the intersection of **Flutter**, **AI/LLMs**, and **game-inspired UX**. I like shipping full products end-to-end — mobile front-end, backend API, and an AI layer that actually does something useful.
 
-## 💻 Tech Stack
+- 🔭 Currently building **Alarming Silence** — a comedic silent-alarm Flutter app with a night-sky aesthetic and a custom iOS-style time picker
+- 🧠 Deep into **LLM-powered tooling** — Mistral, Gemini, and Groq integrations across half a dozen projects
+- 🎮 Big fan of turning **RPG mechanics** (XP, quests, ranks, penalty systems) into real productivity tools
+- 🌙 Aesthetic of choice: dark UI, animated night skies, anime-inspired detail
+- ⚡ Fun fact: I'll find a way to combine AI + Flutter with almost anything
 
-### Languages
-- Dart
-- Python
-- C++
-- C
-- C#
-- SQL
+</td>
+<td valign="top" width="40%">
 
-### Mobile & Game Development
-- Flutter
-- Unity
-- Firebase
-- Provider
+<img src="https://github-readme-stats.vercel.app/api?username=Dhruv-Mevada-007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9" width="100%"/>
 
-### Backend
-- FastAPI
-- SQLite
-- REST APIs
+</td>
+</tr>
+</table>
 
-### AI & Machine Learning
-- TensorFlow
-- PyTorch
-- Hugging Face
-- Transformers
-- OpenCV
-- Scikit-learn
-- Pandas
-- NumPy
+<br/>
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Android Studio
-- Postman
-- Figma
+## 🛠️ Tech Stack
 
----
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+**Mobile & Game Dev**
+<br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Provider-13B9FD?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+**AI / ML**
+<br/>
+<img src="https://img.shields.io/badge/Mistral%20AI-FA520F?style=for-the-badge&logo=mistralai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+**Tools**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</div>
+
+<br/>
 
 ## 🌟 Featured Projects
 
-| Project | Description | Repository |
-|---------|-------------|------------|
-| 🤖 AI Research Gap Finder | Finds research gaps using LLMs and academic papers. | https://github.com/YOUR_USERNAME/research-gap-finder |
-| 😌 Relaxiz | Flutter app for relaxation, mindfulness, quizzes, quotes, and activities. | https://github.com/YOUR_USERNAME/relaxiz |
-| 📺 Anime Tracker | Flutter + FastAPI app for tracking anime with ratings and watchlists. | https://github.com/YOUR_USERNAME/anime-tracker |
-| ✨ Prompt Optimizer Extension | Chrome extension that enhances prompts before sending them to AI. | https://github.com/YOUR_USERNAME/prompt-optimizer |
-| 🎮 AI Quest Generator | Research project that generates RPG quests using GPT models. | https://github.com/YOUR_USERNAME/ai-quest-generator |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### ⚔️ Solo Leveling System
+Full RPG-style Flutter productivity app — quests, habits, XP, ranks, and a unified penalty escalation system, wrapped in an animated night-sky UI.
+
+`Flutter` `State Management` `Local Persistence`
+
+</td>
+<td width="50%" valign="top">
+
+### ⏰ Alarming Silence *(in progress)*
+A comedic silent-alarm app with a custom iOS-style time picker and a night-sky aesthetic. Currently finishing the ringing and alarm-edit flows.
+
+`Flutter` `Custom UI` `Animations`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📝 YouTube → AI Notes Extension
+Chrome extension that pulls YouTube transcripts and generates structured AI notes via Mistral, with a `json3` fallback for reliable transcript parsing.
+
+`Chrome Extension` `Mistral AI` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔤 AI Word Finder Game
+Flutter + FastAPI word-search game with Mistral-generated themed word sets, an 8-direction grid placement algorithm, and difficulty-scaled grids.
+
+`Flutter` `FastAPI` `Mistral AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 AI Expense Tracker
+Flutter + Django expense tracker with JWT auth, wallet balances derived via Django signals, and an AI chat/analytics layer for spending insights.
+
+`Flutter` `Django` `Mistral AI`
+
+</td>
+<td width="50%" valign="top">
+
+### 👗 AI Fashion Analysis Backend
+FastAPI pipeline chaining SCHP human parsing → FashionCLIP recommendations → IDM-VTON virtual try-on.
+
+`FastAPI` `Computer Vision` `Virtual Try-On`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>💡 More on <a href="https://github.com/Dhruv-Mevada-007?tab=repositories">my repositories page</a> — including the resume analyzer, music recommender, lyric writer, and F1 tire-degradation analysis</sub>
+</div>
+
+<br/>
 
 ## 💼 Experience
 
-### Flutter Intern
-**RumBum Software Service**
+<table>
+<tr><td>
 
-- Developed Flutter applications
-- Improved UI/UX and application performance
-- Worked with Firebase and state management
+**Flutter Intern** — RumBum Software Service
+Developed Flutter applications, improved UI/UX and performance, worked with Firebase and state management.
 
----
+</td></tr>
+<tr><td>
 
-### Android Development Intern
-**BrainyBeam Technologies Pvt. Ltd.** *(Jun 2022 – Jul 2022)*
+**Android Development Intern** — BrainyBeam Technologies Pvt. Ltd. *(Jun 2022 – Jul 2022)*
+Learned Android fundamentals, built small apps with Java and Android Studio.
 
-- Learned Android development fundamentals
-- Built small Android applications
-- Worked with Java and Android Studio
+</td></tr>
+<tr><td>
 
----
+**Cyber Security Virtual Experience** — Forage
+Hands-on cybersecurity simulations covering phishing awareness and security practices.
 
-### Cyber Security Virtual Experience
-**Forage**
-
-- Completed hands-on cybersecurity simulations
-- Learned phishing awareness and security practices
-
----
+</td></tr>
+</table>
 
 ## 🎓 Education
 
-**Master of Engineering (M.E.)**
-Computer Engineering
+- **Master of Engineering (M.E.)** — Computer Engineering
+- **Bachelor of Technology (B.Tech.)** — Computer Engineering, Ahmedabad Institute of Technology — CGPA: **8.2**
 
-**Bachelor of Technology (B.Tech.)**
-Computer Engineering
-Ahmedabad Institute of Technology
-CGPA: **8.2**
+<br/>
 
----
+## 📊 GitHub Analytics
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Mevada-007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&text_color=c9d1d9" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Dhruv-Mevada-007&theme=tokyonight&hide_border=true&background=0d1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" height="170"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dhruv-Mevada-007&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 
-</p>
+</div>
 
-<p align="center">
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+## 🌱 Currently Exploring
 
-</p>
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/LLM%20Agents-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG%20Pipelines-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Chrome%20Extensions-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Advanced%20Flutter%20Architecture-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Knowledge%20Graphs-8A2BE2?style=flat-square"/>
 
-## 🏆 GitHub Trophies
+</div>
 
-<p align="center">
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+## 🤝 Connect With Me
 
-</p>
+<div align="center">
 
----
+<a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://YOUR_WEBSITE.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 
-## 🌱 Currently Learning
+</div>
 
-- Large Language Models (LLMs)
-- AI Agents
-- RAG Applications
-- Prompt Engineering
-- Chrome Extension Development
-- Advanced Flutter Architecture
-- FastAPI Backend Development
+<br/>
 
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- 🌐 Portfolio: https://YOUR_WEBSITE.com
-- 📧 Email: your@email.com
-- 🐦 X (Twitter): https://x.com/YOUR_HANDLE
-
----
-
-## ⚡ Fun Fact
-
-I love combining **AI + Flutter** to build smart applications, and I'm always exploring new technologies—from mobile development to game development and cybersecurity.
+<div align="center">
 
 > *"Keep building. Keep learning. Keep shipping."* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+
+</div>
