@@ -27,13 +27,15 @@ I'm a **Computer Engineer** (pursuing M.E.) building at the intersection of **Fl
 </td>
 <td valign="top" width="40%" align="center">
 
-<img src="https://github.com/Dhruv-Mevada-007.png" width="220" style="border-radius:50%;"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,django,nodejs,firebase,unity,git&theme=dark&perline=5"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Ahmedabad,%20India-1a1a2e?style=flat-square&logo=googlemaps&logoColor=8A2BE2"/>
-<br/>
-<img src="https://img.shields.io/github/followers/Dhruv-Mevada-007?style=flat-square&label=Followers&color=8A2BE2"/>
+<img src="https://raw.githubusercontent.com/Dhruv-Mevada-007/Dhruv-Mevada-007/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=8A2BE2&center=true&vCenter=true&width=300&lines=%22Keep+building.+Keep+learning.%22;%22Ship+the+thing.+Then+ship+the+next+thing.%22;%22Small+bugs+today%2C+fewer+bugs+tomorrow.%22"/>
 
 </td>
 </tr>
