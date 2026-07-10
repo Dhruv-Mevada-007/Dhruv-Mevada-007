@@ -25,9 +25,15 @@ I'm a **Computer Engineer** (pursuing M.E.) building at the intersection of **Fl
 - ⚡ Fun fact: I'll find a way to combine AI + Flutter with almost anything
 
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="40%" align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Dhruv-Mevada-007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=c9d1d9" width="100%"/>
+<img src="https://github.com/Dhruv-Mevada-007.png" width="220" style="border-radius:50%;"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Ahmedabad,%20India-1a1a2e?style=flat-square&logo=googlemaps&logoColor=8A2BE2"/>
+<br/>
+<img src="https://img.shields.io/github/followers/Dhruv-Mevada-007?style=flat-square&label=Followers&color=8A2BE2"/>
 
 </td>
 </tr>
