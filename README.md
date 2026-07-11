@@ -38,7 +38,7 @@ I'm a **Computer Engineer** currently pursuing my **M.E. in IT**, passionate abo
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=8A2BE2&center=true&vCenter=true&width=300&lines=%22Keep+building.+Keep+learning.%22;%22Ship+the+thing.+Then+ship+the+next+thing.%22;%22Small+bugs+today%2C+fewer+bugs+tomorrow.%22"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=8A2BE2&center=true&vCenter=true&width=350&lines=Keep+building.+Keep+learning.;Build.+Break.+Improve.;Stay+curious.+Keep+coding." />
 
 </td>
 </tr>
@@ -111,32 +111,37 @@ I'm a **Computer Engineer** currently pursuing my **M.E. in IT**, passionate abo
 <table>
 <tr><td>
 
-**Flutter Intern** — RumBum Software Service
-Developed Flutter applications, improved UI/UX and performance, worked with Firebase and state management.
+### **Flutter Developer** — Yogi Technolabs Pvt. Ltd. *(2023 – 2025)*
+
+* Developed and maintained cross-platform mobile applications using **Flutter**
+* Integrated REST APIs and implemented efficient state management
+* Published applications to the **Google Play Store** and **Apple App Store**
+* Built responsive, scalable, and user-friendly mobile experiences
 
 </td></tr>
+
 <tr><td>
 
-**Android Development Intern** — BrainyBeam Technologies Pvt. Ltd. *(Jun 2022 – Jul 2022)*
-Learned Android fundamentals, built small apps with Java and Android Studio.
+### **Unity Game Developer** — RumBum Software Service Pvt. Ltd. *(2024 – 2025)*
 
-</td></tr>
-<tr><td>
-
-**Cyber Security Virtual Experience** — Forage
-Hands-on cybersecurity simulations covering phishing awareness and security practices.
+* Developed engaging educational and casual games using **Unity**
+* Designed interactive UI/UX with animations and visual effects
+* Built applications from development to production and store deployment
+* Optimized performance for a smooth user experience across devices
 
 </td></tr>
 </table>
 
-## 🔵 Education
-
-**Master of Technology (M.Tech.)** in Information Technology *(Pursuing)*
-
-**Bachelor of Technology (B.Tech.)** in Computer Engineering from Ahmedabad Institute of Technology
-
 <br/>
 
+## 🔵 Education
+
+**Master of Engineering (M.E.)** — Computer Engineering *(Pursuing)*
+
+**Bachelor of Technology (B.Tech.)** — Computer Engineering
+Ahmedabad Institute of Technology
+
+<br/>
 
 ## 🔵 GitHub Statistics
 
