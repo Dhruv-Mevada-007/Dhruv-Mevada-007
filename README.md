@@ -204,12 +204,12 @@ Hands-on cybersecurity simulations covering phishing awareness and security prac
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=Dhruv-Mevada-007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9" width="49%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dhruv-Mevada-007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1E90FF&text_color=c9d1d9" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=dhruvmevada-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dhruvmevada-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1E90FF&text_color=c9d1d9" width="49%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Dhruv-Mevada-007&theme=tokyonight&hide_border=true&background=0d1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=dhruvmevada-dev&theme=tokyonight&hide_border=true&background=0d1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" width="60%"/>
 
 </div>
 
