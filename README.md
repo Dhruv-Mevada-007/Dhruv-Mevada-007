@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4287f5,100:16213e&height=270&section=header&text=Dhruv%20Mevada&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Dev%20•%20AI%20Builder%20•%20Game%20Dev&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/Dhruv-Mevada-007">
+<a href="https://github.com/dhruvmevada-dev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+AI-powered+Flutter+apps;Solo+Leveling+System+%7C+Alarming+Silence;Chrome+Extensions+%2B+LLMs+%2B+RAG;Turning+anime+aesthetics+into+real+products" />
 </a>
 
@@ -13,16 +13,19 @@
 <table align="center" border="0">
 <tr>
 <td valign="top" width="60%">
+  
+## 🔵 About Me
 
-### 🔵 About Me
+I'm a **Computer Engineer** currently pursuing my **M.E. in IT**, passionate about turning ideas into polished products using **Flutter**, **FastAPI**, **Nodejs** and **AI**.
 
-I'm a **Computer Engineer** (pursuing M.E.) building at the intersection of **Flutter**, **AI/LLMs**, and **game-inspired UX**. I like shipping full products end-to-end — mobile front-end, backend API, and an AI layer that actually does something useful.
+* Building full-stack applications from mobile UI to backend APIs
+* Experimenting with **LLMs**, AI agents, and intelligent automation
+* Love creating unique developer projects that recruiters actually remember
+* Flutter developer with experience in **Unity** game development
+* Passionate about modern dark UIs, smooth animations, and clean architecture
+* Constantly learning and exploring new technologies to build better software
+* **Motto:** *'Turning what if? into it works.'*
 
-- 🔭 Currently building **Alarming Silence** — a comedic silent-alarm Flutter app with a night-sky aesthetic and a custom iOS-style time picker
-- 🧠 Deep into **LLM-powered tooling** — Mistral, Gemini, and Groq integrations across half a dozen projects
-- 🎮 Big fan of turning **RPG mechanics** (XP, quests, ranks, penalty systems) into real productivity tools
-- 🌙 Aesthetic of choice: dark UI, animated night skies, anime-inspired detail
-- ⚡ Fun fact: I'll find a way to combine AI + Flutter with almost anything
 
 </td>
 <td valign="top" width="40%" align="center">
